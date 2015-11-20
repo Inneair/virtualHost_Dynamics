@@ -2,8 +2,3 @@ test1.dev       /test1/www
 test2.dev       /test2/web
 test3.dev       /test3/public
 www.test3.dev   /test3/public
-
-
-(test1 : exemple si votre index se situe dans le dossier "www" de votre projet)
-(test2 : exemple pour projet de type symfony : app.dev dans le dossier "web")
-(test3 : exemple si vous avez une redirection d'URL avec l'ajout de www. et que l'index ce situe dans "public")
