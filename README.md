@@ -1,4 +1,4 @@
-# VirtualHosts dinamyques
+# VirtualHosts dynamiques
 
 ## 1. Objectifs
 
@@ -47,7 +47,7 @@ exemple.dev       /exemple/www
 
 Votre virtual host est près, vous pouvez commencez à travailler.
 
-:warning: Si dans votre projet vous avez une redirection de votre URL avec un ajout de "www." vous devez doublez la
+:warning: Si dans votre projet vous avez une redirection de votre URL avec un ajout de `www.` vous devez doublez la
 déclaration de de ce vhost dans votre vhost.map  
 ```
 exemple.dev       /exemple/www  
